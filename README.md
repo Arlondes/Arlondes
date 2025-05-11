@@ -11,7 +11,7 @@
 - 🎓 Estudante de desenvolvimento web
 - 💼 Buscando oportunidades como desenvolvedor front-end
 - 🎯 Meu objetivo é me tornar um **programador fullstack**
-- 🎬 Nas horas vagas sou **filmmaker**
+- 🎬 Nas horas vagas sou **videomaker**
 - 🚀 Amante de projetos pessoais e desafios de código
 
 ---
