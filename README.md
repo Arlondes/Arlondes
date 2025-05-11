@@ -13,7 +13,7 @@
  
  <br>
  
-  ### Para entrar em contato é só me procurar nas Redes abaixo! 
+  ### Para entrar em contato é só me procurar na Rede abaixo! 
  
 <div> 
   
